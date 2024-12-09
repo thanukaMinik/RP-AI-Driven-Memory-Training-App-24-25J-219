@@ -3,7 +3,7 @@ RP-AI-Driven-Memory-Training-App-For-Neurological-Disorders-24-25J-219
 
 #### Group ID : 24-25J-219
 
-#### Repository Link : 
+#### Repository Link : https://github.com/thanukaMinik/RP-AI-Driven-Memory-Training-App-24-25J-219.git
 
 # Group Members
 
