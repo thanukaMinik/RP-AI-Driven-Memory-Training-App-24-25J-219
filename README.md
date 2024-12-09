@@ -35,7 +35,7 @@ AI Driven Memory Training App is an web application designed to support individu
 • Gamified memory training uses game-like features to make the training more engaging and motivating. It includes rewards, progress tracking, feedback, and easy-to-use designs to keep users interested and committed for a long time
 
 # Overall System Diagram
-![image](https://github.com/user-attachments/assets/ce564a68-cf1f-4396-ad4c-989a42dac9d0)
+![Picture1](https://github.com/user-attachments/assets/a17dfb63-d26f-45a0-a636-74489a67c322)
 
 # Dependencies
 
@@ -59,6 +59,9 @@ AI Driven Memory Training App is an web application designed to support individu
   - seaborn
   - librosa
   - scikit-learn
+  - Jupyter NoteBook
+  - OpenCV
+  - HuggingFace
 
 ### Development Tools
 - **Google Colab** 
